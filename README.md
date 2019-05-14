@@ -22,5 +22,5 @@ ctrl+c
 ```
 curl -H "APIKEY:123"  "http://localhost:8080/hotels/search?cityId=Bangkok"
 curl -H "APIKEY:123"  "http://localhost:8080/hotels/search?cityId=Bangkok&sortOrder=DESC"
-curl -H "APIKEY:123"  "http://localhost:8080/hotels/search?cityId=Bangkok&sortOrder=ASCC"
+curl -H "APIKEY:123"  "http://localhost:8080/hotels/search?cityId=Bangkok&sortOrder=ASC"
 ```
